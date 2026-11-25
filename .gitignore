@@ -1,0 +1,9 @@
+# Compiled executable
+main.exe
+
+# Temporary files
+*.o
+*.obj
+
+# Editor settings
+.vscode/
